@@ -1,0 +1,20 @@
+/*Contenedor Flex*/
+.container{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    height: 100vh; /*Altura del Contenedor*/
+    background-color:darkred;
+}
+
+/*Elementos Flex*/
+.item{
+    background-color: #d3e248;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    flex-grow:1; /*cada elemento crecerá para llenar el espacio disponible*/
+}
+

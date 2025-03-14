@@ -1,0 +1,36 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Imagen-Cristiano-Sporting.Cris-Sporting{
+    display: flex;
+    justify-content:center;
+    
+}
+
+.Ronaldo-Manchester{
+    height: 350px;
+}
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.El-Bicho{
+    height: 350px;
+}
+.Cristiano-Su{
+    height: 550px;
+}
+.Cristiano1{
+    background-color: green;
+}
+.Cris1{
+    background-color: darkgreen;
+}
+.Cris2{
+background-color: red;
+}
